@@ -2,6 +2,10 @@
 
 Mapty is a web application designed for tracking workouts, whether it's running or cycling. It utilizes the geolocation feature of modern web browsers to pinpoint the user's location on a map, allowing them to log workouts with specific details like distance, duration, and additional metrics depending on the workout type.
 
+##Video
+
+https://github.com/PDARSHIL312/Mapthy-APP/assets/137078389/25e25af0-3360-47b2-84de-dabe8dec53c5
+
 ## Features
 
 ### 1. Workout Tracking
